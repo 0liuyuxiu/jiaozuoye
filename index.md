@@ -185,16 +185,16 @@ setInterval(function(){
 </div>
 <div id="id">
 <ul id="sw">
-<li><img src="D:\360安全浏览器下载\b1.png"/></li>
-<li><img src="D:\360安全浏览器下载\b2.png"/></li>
-<li><img src="D:\360安全浏览器下载\b3.png"/></li>
-<li><img src="D:\360安全浏览器下载\b4.png"/></li>
-<li><img src="D:\360安全浏览器下载\b5.png"/></li>
-<li><img src="D:\360安全浏览器下载\b1.png"/></li>
-<li><img src="D:\360安全浏览器下载\b2.png"/></li>
-<li><img src="D:\360安全浏览器下载\b3.png"/></li>
-<li><img src="D:\360安全浏览器下载\b4.png"/></li>
-<li><img src="D:\360安全浏览器下载\b5.png"/></li>
+<li><img src="D:\.\b1.png"/></li>
+<li><img src="D:\.\b2.png"/></li>
+<li><img src="D:\.\b3.png"/></li>
+<li><img src="D:\.\b4.png"/></li>
+<li><img src="D:\.\b5.png"/></li>
+<li><img src="D:\.\b1.png"/></li>
+<li><img src="D:\.\b2.png"/></li>
+<li><img src="D:\.\b3.png"/></li>
+<li><img src="D:\.\b4.png"/></li>
+<li><img src="D:\.\b5.png"/></li>
 </ul>
 </div>
 <ul id="xiu" >
