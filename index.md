@@ -185,16 +185,16 @@ setInterval(function(){
 </div>
 <div id="id">
 <ul id="sw">
-<li><img src="D:\.\b1.png"/></li>
-<li><img src="D:\.\b2.png"/></li>
-<li><img src="D:\.\b3.png"/></li>
-<li><img src="D:\.\b4.png"/></li>
-<li><img src="D:\.\b5.png"/></li>
-<li><img src="D:\.\b1.png"/></li>
-<li><img src="D:\.\b2.png"/></li>
-<li><img src="D:\.\b3.png"/></li>
-<li><img src="D:\.\b4.png"/></li>
-<li><img src="D:\.\b5.png"/></li>
+<li><img src=".\b1.png"/></li>
+<li><img src=".\b2.png"/></li>
+<li><img src=".\b3.png"/></li>
+<li><img src=".\b4.png"/></li>
+<li><img src=".\b5.png"/></li>
+<li><img src=".\b1.png"/></li>
+<li><img src=".\b2.png"/></li>
+<li><img src=".\b3.png"/></li>
+<li><img src=".\b4.png"/></li>
+<li><img src=".\b5.png"/></li>
 </ul>
 </div>
 <ul id="xiu" >
